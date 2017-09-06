@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HolaJennyMc</string>
+    <string name="mensaje">Bienvenido</string>
+    <string name="mensajeBoton">Entrar</string>
+</resources>
